@@ -200,3 +200,57 @@ The cohort-level retention advantage ranged from approximately **+20.19 to +28.0
 The analysis shows that employees in the New Onboarding group had higher 90-day engagement and higher 6-month retention than employees in the Old Onboarding group.
 
 The consistency of the pattern across cohorts provides additional context for management when evaluating the onboarding process.
+
+
+
+## 📐 Statistical Validation
+
+Statistical testing was performed to determine whether the differences observed between the Old and New Onboarding groups were statistically significant.
+
+### 1. Independent Two-Sample T-Test
+
+The T-Test was used to compare the mean 90-day engagement scores of the two onboarding groups.
+
+**Null Hypothesis (H₀):**  
+There is no difference in mean 90-day engagement between the two onboarding groups.
+
+**Alternative Hypothesis (H₁):**  
+There is a difference in mean 90-day engagement between the two onboarding groups.
+
+**Significance Level (α):** 0.05
+
+**Result:**
+
+- T-Test p-value = **1.79 × 10⁻³⁷**
+- Decision = **Reject H₀**
+- Result = **Statistically Significant**
+
+The New Onboarding group had a higher average 90-day engagement score, and the observed difference was statistically significant.
+
+### 2. Chi-Square Test
+
+The Chi-Square test was used to examine the association between onboarding group and 6-month retention.
+
+**Null Hypothesis (H₀):**  
+There is no association between onboarding group and 6-month retention.
+
+**Alternative Hypothesis (H₁):**  
+There is an association between onboarding group and 6-month retention.
+
+**Significance Level (α):** 0.05
+
+**Result:**
+
+- Chi-Square p-value = **6.29 × 10⁻³⁴**
+- Decision = **Reject H₀**
+- Result = **Statistically Significant**
+
+The analysis indicates a statistically significant association between onboarding group and 6-month retention.
+
+### Statistical Conclusion
+
+Both statistical tests produced p-values far below the 0.05 significance level.
+
+Therefore, the analysis provides strong statistical evidence that the New Onboarding group had higher 90-day engagement and higher 6-month retention than the Old Onboarding group.
+
+> **Note:** Statistical significance demonstrates that the observed differences are unlikely to be explained by random variation under the respective null hypotheses. Causal claims require an appropriate experimental or randomized study design.

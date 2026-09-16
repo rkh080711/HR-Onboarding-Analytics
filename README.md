@@ -54,3 +54,50 @@ This case study evaluates the two onboarding groups using employee engagement, r
 - Chi-Square Test
 - KPI Analysis
 - Data Visualization
+
+
+## 📂 Dataset
+
+The project uses an employee-level HR dataset containing **2,400 employee records**.
+
+The dataset includes employee demographics, onboarding information, engagement metrics, productivity indicators and retention outcomes.
+
+### Main Data Categories
+
+| Category | Examples |
+|---|---|
+| Employee Information | Employee ID, Age, Gender |
+| Organization | Department, Location, Level |
+| Employment | Employment Type, Salary |
+| Onboarding | Onboarding Group, Orientation, Buddy Assignment |
+| Engagement | Engagement Before, Engagement at 90 Days |
+| Performance | Productivity at 90 Days, Manager Rating |
+| Retention | 3-Month Retention, 6-Month Retention |
+| Exit Information | Exit Date, Exit Reason |
+| Cohort | Joining Month / Cohort Month |
+
+### Key Variables
+
+| Variable | Description |
+|---|---|
+| `Onboarding_Group` | A = Old Onboarding, B = New Onboarding |
+| `Engagement_A` | Engagement measure for the Old Onboarding group |
+| `Engagement_B` | Engagement measure for the New Onboarding group |
+| `Engagement_90D` | Employee engagement measured at 90 days |
+| `Retained_3M` | Whether the employee was retained for 3 months |
+| `Retained_6M` | Whether the employee was retained for 6 months |
+| `Cohort_Month` | Employee joining cohort |
+| `Productivity_90D` | Productivity measure at 90 days |
+| `Manager_Rating` | Manager performance rating |
+
+### Data Preparation
+
+The dataset was reviewed and prepared before analysis.
+
+Key preparation activities included:
+
+- Validating column data types
+- Checking employee records
+- Reviewing missing values
+- Maintaining appropriate null values where applicable
+- Preparing the dataset for Power BI analysis

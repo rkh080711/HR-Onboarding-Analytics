@@ -101,3 +101,58 @@ Key preparation activities included:
 - Reviewing missing values
 - Maintaining appropriate null values where applicable
 - Preparing the dataset for Power BI analysis
+
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard was designed as a 3-page HR management analytics solution.
+
+### Page 1 — Management Summary
+
+Provides a high-level overview of the workforce and onboarding outcomes.
+
+Key elements include:
+
+- Total Employee Count
+- Old vs New Onboarding Employee Count
+- Average Engagement Before Onboarding
+- Average Engagement at 90 Days
+- Overall 6-Month Retention
+- Old vs New Onboarding Retention Rate
+- Department Distribution
+- Location Distribution
+- Employment Type
+- Interactive Onboarding Group and Location Filters
+
+### Page 2 — Cohort & Trend Analysis
+
+Analyzes whether onboarding outcomes remain consistent across employee joining cohorts.
+
+Key analysis includes:
+
+- Employees by Joining Cohort
+- 90-Day Engagement by Cohort
+- 6-Month Retention by Cohort
+- New Onboarding Retention Advantage by Cohort
+- Monthly Engagement Trend
+- Cohort-level business insights
+
+### Page 3 — Statistical Validation
+
+Provides statistical evidence supporting the dashboard findings.
+
+Key elements include:
+
+- T-Test P-Value
+- T-Test Decision
+- Chi-Square P-Value
+- Chi-Square Decision
+- Statistical Methodology
+- Overall Statistical Conclusion
+- Management Recommendation
+
+## 🔍 Dashboard Design Approach
+
+The dashboard follows a management-focused storytelling approach:
+
+**Workforce Overview → Cohort Analysis → Statistical Validation → Management Action**  

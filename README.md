@@ -156,3 +156,47 @@ Key elements include:
 The dashboard follows a management-focused storytelling approach:
 
 **Workforce Overview → Cohort Analysis → Statistical Validation → Management Action**  
+
+
+## 🔍 Key Findings
+
+### 1. Employee Engagement
+
+The New Onboarding group recorded a higher average 90-day engagement score than the Old Onboarding group.
+
+| Metric | Old Onboarding (A) | New Onboarding (B) |
+|---|---:|---:|
+| Average 90-Day Engagement | 69.97 | 75.72 |
+| Difference | | **+5.75 points** |
+
+The New Onboarding group showed an average engagement advantage of **5.75 points**.
+
+### 2. Employee Retention
+
+The New Onboarding group also recorded a higher 6-month retention rate.
+
+| Metric | Old Onboarding (A) | New Onboarding (B) |
+|---|---:|---:|
+| 6-Month Retention | 45.38% | 69.86% |
+| Difference | | **+24.48 percentage points** |
+
+The retention rate for the New Onboarding group was **24.48 percentage points higher** than the Old Onboarding group.
+
+### 3. Cohort Consistency
+
+The analysis was further segmented by joining cohort to determine whether the observed pattern was consistent across different employee joining months.
+
+The New Onboarding group showed higher engagement and retention across all four analyzed cohorts:
+
+- January
+- February
+- March
+- April
+
+The cohort-level retention advantage ranged from approximately **+20.19 to +28.03 percentage points**.
+
+### 4. Overall Business Insight
+
+The analysis shows that employees in the New Onboarding group had higher 90-day engagement and higher 6-month retention than employees in the Old Onboarding group.
+
+The consistency of the pattern across cohorts provides additional context for management when evaluating the onboarding process.

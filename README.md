@@ -254,3 +254,35 @@ Both statistical tests produced p-values far below the 0.05 significance level.
 Therefore, the analysis provides strong statistical evidence that the New Onboarding group had higher 90-day engagement and higher 6-month retention than the Old Onboarding group.
 
 > **Note:** Statistical significance demonstrates that the observed differences are unlikely to be explained by random variation under the respective null hypotheses. Causal claims require an appropriate experimental or randomized study design.
+
+
+## 💼 Management Recommendation
+
+Based on the analysis, the New Onboarding Process should be continued while its performance is monitored through ongoing HR KPIs.
+
+### Recommended Monitoring KPIs
+
+- 30-Day Employee Engagement
+- 90-Day Employee Engagement
+- 3-Month Retention
+- 6-Month Retention
+- Employee Attrition / Exit Rate
+- Exit Reasons
+- Cohort-Level Onboarding Performance
+
+Regular monitoring can help HR identify whether the observed improvements are sustained over time and across different employee populations.
+
+## 📝 Conclusion
+
+This HR Analytics case study evaluated the Old and New Employee Onboarding Processes using a combination of descriptive analysis, cohort analysis, Power BI visualization and statistical testing.
+
+The New Onboarding group showed:
+
+- **+5.75 points** higher average 90-day engagement
+- **+24.48 percentage points** higher 6-month retention
+- Higher retention across all four analyzed joining cohorts
+- Statistically significant results from both the T-Test and Chi-Square Test
+
+Overall, the analysis provides statistical evidence of better observed outcomes for employees in the New Onboarding group.
+
+The findings can support HR management in evaluating the effectiveness of the onboarding process and establishing ongoing KPI monitoring.

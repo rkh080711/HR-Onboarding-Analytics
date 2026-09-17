@@ -314,7 +314,7 @@ The case study combines business understanding, data analysis, visualization and
 
 ---
 
-## 👤 Author
+## 👤 Rohit Khawar
 
 **HR / Data Analytics Portfolio Project**
 

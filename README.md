@@ -286,3 +286,36 @@ The New Onboarding group showed:
 Overall, the analysis provides statistical evidence of better observed outcomes for employees in the New Onboarding group.
 
 The findings can support HR management in evaluating the effectiveness of the onboarding process and establishing ongoing KPI monitoring.
+
+
+
+## 🎯 Project Outcome
+
+This project demonstrates an end-to-end HR Analytics workflow:
+
+**Raw HR Data → Data Preparation → KPI Analysis → Cohort Analysis → Statistical Testing → Power BI Dashboard → Business Recommendation**
+
+The case study combines business understanding, data analysis, visualization and statistical validation to evaluate an employee onboarding process.
+
+### Skills Demonstrated
+
+- HR Analytics
+- Employee Engagement Analysis
+- Employee Retention Analysis
+- Cohort Analysis
+- A/B Group Comparison
+- Statistical Hypothesis Testing
+- T-Test
+- Chi-Square Test
+- Power BI Dashboard Development
+- Excel Data Analysis
+- Business Insight Generation
+- Data-Driven Decision Making
+
+---
+
+## 👤 Author
+
+**HR / Data Analytics Portfolio Project**
+
+This project was created as a practical HR Analytics case study to demonstrate the application of data analysis and business intelligence techniques to an employee onboarding problem.
